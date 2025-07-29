@@ -1,3 +1,6 @@
+
+// task 2
+
 let weight=65;
 let hight=1.85;
 let bmi=weight/(hight)^2;
